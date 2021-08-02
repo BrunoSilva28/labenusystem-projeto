@@ -10,6 +10,8 @@
 ---
 ## DOCUMENTAÇÃO DE FUNCIONAMENTO
 
+### LINK DA DOCUMENTAÇÃO NO POSTMAN: `https://documenter.getpostman.com/view/15825773/Tzsfo6Bn`
+
 ### `GET` All Students In A Class
 
 `http://localhost:3003/class/:classId/student`
